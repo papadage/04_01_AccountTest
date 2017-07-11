@@ -25,19 +25,17 @@ class AccountTest // Create a class
    } // Close Main
 } // Close AccountTest Class
 
-//using System;
 
-//class AccountTest // Create class
+//using System;
+//class AccountTest
 //{
-//   static void Main() // Main method
+//   static void Main()
 //   {
-//      Account myAccount = new Account(); // Instantiate new object from Account class and reference it with myAccount variable of Account type
-//      Console.WriteLine($"Initial name is: {myAccount.GetName()}"); // Use GetName method of Account class to show empty name
-//      Console.Write("Enter the name: "); // Prompt for input of name
-//      string theName = Console.ReadLine(); // Grab input as a string variable
-//      myAccount.SetName(theName); // Use Account method SetName to put variable value into name of object
-//      Console.WriteLine($"myAccount's name is {myAccount.GetName()}"); // Use GetName method of class Account to show the new name
+//      Account myAccount = new Account();
+//      Console.WriteLine($"Initial name is: {myAccount.GetName()}");
+//      Console.Write("Enter the name: ");
+//      string theName = Console.ReadLine();
+//      myAccount.SetName(theName);
+//      Console.WriteLine($"myAccount's name is {myAccount.GetName()}");
 //   }
 //}
-
-

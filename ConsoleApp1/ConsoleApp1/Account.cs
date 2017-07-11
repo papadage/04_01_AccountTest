@@ -1,6 +1,6 @@
-﻿// Figure 4.2: Account.cs
-// A simple Account class that contains a private instance
-//    variable name and public methods to Set and Get the nbame's value.
+﻿ Figure 4.2: Account.cs
+ A simple Account class that contains a private instance
+    variable name and public methods to Set and Get the nbame's value.
 
 class Account // Pascal class notation of the name
 {
@@ -25,3 +25,16 @@ class Account // Pascal class notation of the name
    }
 
 }
+
+//class Account
+//{
+//   private string name;
+//   public void SetName(string accountName)
+//   {
+//      name = accountName;
+//   }
+//   public string GetName()
+//   {
+//      return name;
+//   }
+//}
